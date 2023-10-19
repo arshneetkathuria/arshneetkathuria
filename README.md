@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I am Arshneet Kathuria </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h3 align="center">An enthousiast Full Stack Developer</h3>
+<h3 align="center">An enthusiast Full Stack Developer</h3>
 
 <div align="center">
  
- [![Linkedin Badge](https://img.shields.io/badge/-iArshneet Kathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iArshneet Kathuria/)](https://www.linkedin.com/in/iArshneet Kathuria/) [![Gmail Badge](https://img.shields.io/badge/-hravelondrina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:hravelondrina@gmail.com)
- 
+ [![Linkedin Badge](https://img.shields.io/badge/-iharijaona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshneetkathuria/)](https://www.linkedin.com/in/arshneetkathuria/) [![Gmail Badge](https://img.shields.io/badge/-arntkr13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:arntkr13@gmail.com)
  </div>
  
  <br/>
@@ -14,9 +13,9 @@
 
 🌱 I’m currently learning **Solidity and Rust**
 
-💬 Ask me about **Python, React, GraphQL, Microservices**
+💬 Ask me about **Java, Python, React, React Native, Flutter**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**, **Data Engineering** and **DevOPS**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I do: **Full Stack Development**
   
 </div>
  
@@ -28,10 +27,9 @@
 
 | Stack | Tools |
 |---|---|
-|**Python**|FastAPI, Flask, Django, Pandas, PySpark|
-|**Javascript / Typescript**| React.js / Redux / Apollo,  Express.js, Nest.js|
-|**DevOps**|CICD, IaS, Docker|
-|**Cloud Infra**|AWS (EC2, S3, Lambda, Glue, RDS, IAM, Cognito, Kinesis, ECS, Fargate, Api Gateway, ALB, VPC, ...)|
+|**Python**|FastAPI, Django|
+|**Javascript / Typescript**| React.js / Redux ,  Express.js, Nest.js|
+|**Cloud Infra**|AWS (EC2, S3, Lambda, ECS, Fargate, API Gateway, ...)|
 |**API & Architectures**|REST, GraphQL, Microservices, Event-driven|
 
  </div>
