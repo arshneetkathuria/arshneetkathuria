@@ -4,7 +4,7 @@
 
 <div align="center">
  
- [![Linkedin Badge](https://img.shields.io/badge/-iarshneetkathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshneetkathuria/)](https://www.linkedin.com/in/arshneetkathuria/) [![Gmail Badge](https://img.shields.io/badge/-arntkr13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:arntkr13@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-iarshneetkathuria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshneet-kathuria/)](https://www.linkedin.com/in/arshneet-kathuria/) [![Gmail Badge](https://img.shields.io/badge/-arntkr13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hravelondrina@gmail.com)](mailto:arntkr13@gmail.com)
  </div>
  
  <br/>
