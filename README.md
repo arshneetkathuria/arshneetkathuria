@@ -27,10 +27,10 @@
 
 | Stack | Tools |
 |---|---|
-|**Python**|FastAPI, Django|
-|**Javascript / Typescript**| React.js / Redux ,  Express.js, Nest.js|
-|**Cloud Infra**|AWS (EC2, S3, Lambda, ECS, Fargate, API Gateway, ...)|
-|**API & Architectures**|REST, GraphQL, Microservices, Event-driven|
+|**Languages**|Javascript, Dart,Java,Python,.Net|
+|**Technologies**| React Native, Flutter, React, Node, MongoDB, Express, Mysql|
+|**Software Development Tools & Platform**|Redux, Firebase, Xcode, Android Studio,  Postman|
+|**Technical Concepts**|Git, Github, Agile methodology, GraphQL, REST APIs, TCP, UDP, JSON, MVC,Object Oriented Programming, Functional Programming, HTML, CSS|
 
  </div>
 <br/>
